@@ -1,0 +1,6 @@
+[submodule "RYAN-FHIR-R4-UKCORE-STAGING-MAIN"]
+	path = RYAN-FHIR-R4-UKCORE-STAGING-MAIN
+	url = https://github.com/ryma2fhir/RYAN-FHIR-R4-UKCORE-STAGING-MAIN.git
+[submodule "Ryan-NHSEngland-FHIR-Examples"]
+	path = Ryan-NHSEngland-FHIR-Examples
+	url = https://github.com/ryma2fhir/Ryan-NHSEngland-FHIR-Examples.git
